@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cheems aka Nguyễn Minh pHÁT</h1>
+<h1 align="center">Hi 👋, I'm Cheems aka Nguyễn Minh Phát</h1>
 <h3 align="center">IOT developers for many projects : ESP32,STM32,ARDUINO ( Not Yet )</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheemsthememe&label=Profile%20views&color=0e75b6&style=flat" alt="cheemsthememe" /> </p>
